@@ -1,2 +1,2 @@
 # A-Small-C-Game
-A Small C++ Game created by EasyX
+A Small C++ Game created by EasyX. 这是一个迷宫小游戏，根据通关时间获得积分。在路径上有随机生成的道具：拾取金币可以获得额外积分，拾取TNT可以破坏墙体。还可以使用提示获取通关路径（采取A*算法求解）。素材借用了元气骑士。
